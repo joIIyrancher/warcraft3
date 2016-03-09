@@ -1,4 +1,4 @@
-require_relative 'footman'
+require_relative 'unit'
 
 FOOTMAN_GOLD_COST = 135
 FOOTMAN_FOOD_COST = 2

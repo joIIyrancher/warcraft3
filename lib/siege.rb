@@ -1,4 +1,4 @@
-require_relative 'footman'
+require_relative 'unit'
 
 class SiegeEngine < Unit
 
